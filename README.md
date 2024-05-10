@@ -53,3 +53,9 @@ I'm a Full Stack Engineer based in Arizona! I'm currently working on a couple pr
 ## Socials
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mor2daley@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daley-morgan/)
+
+## Credits
+This profile is built from several resources I find online, here's the links if you want to use them in your profiles!
+[Github Stats](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#wakatime-stats-card)
+[Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+[MD Badges](https://github.com/Ileriayo/markdown-badges)
