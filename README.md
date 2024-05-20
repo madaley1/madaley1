@@ -49,6 +49,8 @@ I'm a Full Stack Engineer based in Arizona! I'm currently working on a couple pr
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## GitHub Stats
+[![GitHub Streak](https://github-readme-streak-stats-gtkauy7lo-madaley1s-projects.vercel.app?user=madaley1&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 [![Madaley1's GitHub stats](https://madaley1-github-stats.vercel.app/api?username=madaley1&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://madaley1-github-stats.vercel.app/api/top-langs/?username=madaley1&show_icons=true&theme=dracula&exclude_repo=knD9,Obsidian-Vault,madaley1-github-stats,rainforest-qa-challenge,LTK.SkillsLab,PRODUCTION-Portfolio-ver.react,portfolio-json-server,crometrics-experiments)](https://github.com/anuraghazra/github-readme-stats)
